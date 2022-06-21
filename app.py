@@ -79,7 +79,7 @@ st.header('**All Price**')
 st.dataframe(df)
 
 #st.info('Credit: Created by Chanin Nantasenamat (aka [Data Professor](https://youtube.com/dataprofessor/))')
-st.markdown('''# **crediots goes to Chanin Nantasenamat**
+st.markdown('''# credits goes to Chanin Nantasenamat
 ''')
 
 st.markdown("""
